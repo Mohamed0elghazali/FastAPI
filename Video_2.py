@@ -19,7 +19,7 @@ async def list_items():
 async def get_item():
     return {"detail": f"You choose item: all"}
 
-# trying the path parameter (query parameter)
+# trying the path parameter 
 # you can also tell fastapi (pydantic) the datatype of the comming variable
 # and it will raise error if you send different datatype.
 @app.get("/items/{item_name}")

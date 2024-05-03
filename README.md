@@ -9,4 +9,10 @@ This is a FastAPI Tutorials
 **Video_2.py**
 - create path parameter endpoint.
 - define its datatype.
-- order of endpoint (static then dynamic).
+- order of endpoints (static then dynamic).
+---
+**Video_3.py**
+- create query parameter endpoint.
+- difference between path and query parameter.
+- make query parameter required.
+
