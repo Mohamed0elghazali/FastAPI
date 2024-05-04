@@ -1,6 +1,6 @@
 import uvicorn
-from typing import Optional
 
+from typing import Optional
 from fastapi import FastAPI
 
 app = FastAPI()
