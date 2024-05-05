@@ -32,3 +32,16 @@ This is a FastAPI Tutorials
 - tried these validations (default value, ge, gt, lt, le).
 - non-default argument after default argument.
 ---
+**Video_7.py**
+- create multiple body parameters.
+- using embed in single body parameter.
+---
+**Video_8.py**
+- the Field function is used to customize and add metadata to fields of models.
+- the field validation appear in swagger docs in schema part.
+---
+**Video_9.py**
+- create nested models.
+- using HttpUrl function to validate an url link.
+- try out different nested models eg. list[Image], dict[int, Image], Offer.
+---
