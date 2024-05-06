@@ -45,3 +45,9 @@ This is a FastAPI Tutorials
 - using HttpUrl function to validate an url link.
 - try out different nested models eg. list[Image], dict[int, Image], Offer.
 ---
+**Video_10.py**
+- create example value for attribute of body parameter.
+- method 1 using Config class in origin class.
+- method 2 using example for each attribute from Field function.
+- method 3 using example in body function.
+---
