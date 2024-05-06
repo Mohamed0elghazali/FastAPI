@@ -51,3 +51,9 @@ This is a FastAPI Tutorials
 - method 2 using example for each attribute from Field function.
 - method 3 using example in body function.
 ---
+**Video_11.py**
+- try out different datatype as UUID, Datetime, deltatime.
+---
+**Video_12.py**
+- using cookie and header to retrive data.
+---
