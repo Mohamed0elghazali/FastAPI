@@ -57,3 +57,26 @@ This is a FastAPI Tutorials
 **Video_12.py**
 - using cookie and header to retrive data.
 ---
+**Video_13.py**
+- using the response model to determine the model we need to return as a response.
+- using different models as one in body and another one in response.
+- returning the same fields sent in the body model.
+- using the same model but include or exclude some fields from it.
+---
+**Video_14.py**
+- returning more than one models using Union operator.
+---
+**Video_15.py**
+- exploring the status code of response.
+---
+**Video_16.py**
+- dealling with data sent in forms.
+- trying Form with Body seemed to treat Body as Form parameter.
+---
+**Video_17.py**
+- working with files as bytes and uploadfile class.
+- reading files from Forms.
+---
+**Video_18.py**
+- trying different forms and body parameter and it treats all as form data.
+---
