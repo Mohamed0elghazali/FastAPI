@@ -80,3 +80,32 @@ This is a FastAPI Tutorials
 **Video_18.py**
 - trying different forms and body parameter and it treats all as form data.
 ---
+**Video_19.py**
+- custom error handling.
+- using request validation error to give more meaning for parameter errors.
+- extends built in errors handler and add more information and may be save them in logging file.
+---
+**Video_20.py**
+- group related endpoints under the same tag.
+- adding desicription, summary, docsting and response description to give inforamtion about the endpoint.
+---
+**Video_21.py**
+- trying to convert objects to json using jsonable encoder.
+- fased a problem in patch function as it needs to seed required fields in model.
+---
+**Video_22.py**
+- Using Depends function to make endpoints depend on other functions.
+- make an endpoint depends on query parameters function.
+---
+**Video_23.py**
+- Using Depends function to make endpoints depend on other classes.
+- make an endpoint depends on query parameters class. 
+---
+**Video_24.py**
+- make an example of endpoint depends on query parameter or body parameters.
+- may be applied on header or cookie, etc.
+---
+**Video_25.py**
+- make an example of endpoint depends on header parameter.
+- we can add dependencies in the endpoint function or the decordater or FASTAPI app we define first.
+---
