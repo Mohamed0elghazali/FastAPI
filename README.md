@@ -109,3 +109,12 @@ This is a FastAPI Tutorials
 - make an example of endpoint depends on header parameter.
 - we can add dependencies in the endpoint function or the decordater or FASTAPI app we define first.
 ---
+**Video_26.py**
+- create authentication to protect endpoints using username and password.
+---
+**Video_27.py**
+- create authentication using JWT.
+---
+**Video_28.py**
+- implement a custom middleware. 
+---
